@@ -1,3 +1,3 @@
 ### Hi, I'm Roy! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roychon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roychon&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
