@@ -13,5 +13,5 @@ I'm Roy, a 2nd-year Computer Science student at the University of Waterloo. I'm 
 
 ### 📫 Find me here: ...
 - [LinkedIn](https://www.linkedin.com/in/roychon)
-- [Personal Website](https://roychon.github.io) (uploaded soon!)
+- [Personal Website](https://roychon.github.io) (currently ongoing!)
 - [Contact Me](mailto:rchon@uwaterloo.ca)
