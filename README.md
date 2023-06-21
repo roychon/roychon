@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Roy, a 2nd-year Computer Science student at the University of Waterloo. I'm always looking to make new projects and learn new langauges/frameworks in my spare time. Feel free to [contact me](mailto:rchon@uwaterloo.ca) for any internship opportunities!
+I'm Roy, a 1st-year Computer Science student at the University of Waterloo. I'm always looking to make new projects and learn new langauges/frameworks in my spare time. Feel free to [contact me](mailto:rchon@uwaterloo.ca) for any internship opportunities!
 
 ### 🔭 Some things I've worked on ...
 - [Cacao Talk] 🍬, a full stack messenger app that allows users to talk to associates. Models functionality of real-time social apps using MVC Model
