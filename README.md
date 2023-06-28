@@ -7,10 +7,10 @@ I'm Roy, an incoming 2nd year Computer Science student at the University of Wate
 - [Tesla Clone App] 🚙, a web app that clones the official website of Tesla with additional features embedded
 - [Coinport] 💰, a web app that allows users to track, store, and predict crypto coin rates.
 
-### 🌱 I’m currently learning:
+### ⭐️ I’m currently learning:
 - ☁️ React.js + Typescript
 
-### 📫 Find me here: 
+### 📮 Find me here: 
 - [LinkedIn](https://www.linkedin.com/in/roychon)
 - [Personal Website](https://roychon.github.io)
 - [Contact Me](mailto:rchon@uwaterloo.ca)
