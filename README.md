@@ -8,7 +8,7 @@ I'm Roy, an incoming 2nd year Computer Science student at the University of Wate
 - [Coinport] 💰, a web app that allows users to track, store, and predict crypto coin rates.
 
 ### ⭐️ I’m currently learning:
-- ☁️ React.js + Typescript
+- 🌐 React.js + Typescript
 
 ### 📮 Find me here: 
 - [LinkedIn](https://www.linkedin.com/in/roychon)
