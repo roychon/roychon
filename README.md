@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Roy, an incoming 2nd year Computer Science student at the University of Waterloo with hopes of being software engineer.
 
