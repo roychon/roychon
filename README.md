@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Roy, an incoming 2nd year Computer Science student at the University of Waterlo and aspiring software engineer.
+I'm Roy, an incoming 2nd year Computer Science student at the University of Waterloo with hopes of being software engineer.
 
 ### 💻 Some of my projects include...
 - [Cacao Talk] 🍬, a full stack messenger app that allows users to talk to associates. Models functionality of real-time social apps using MVC Model
