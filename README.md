@@ -3,8 +3,8 @@
 I'm Roy, an incoming 2nd year Computer Science student at the University of Waterloo with hopes of being a software engineer.
 
 ### 💻 Some of my projects include:
+- [DevShop] 👾, web application designed to facilitate portfolio management for developers. It utilizes a combination of SQL, PHP, JavaScript, HTML, and CSS to allow users to upload and showcase their code projects.
 - [Cacao Talk] 🍬, a full stack messenger app that allows users to talk to associates. Models functionality of real-time social apps using MVC Model
-- [Tesla Clone App] 🚙, a web app that clones the official website of Tesla with additional features embedded
 - [Coinport] 💰, a web app that allows users to track, store, and predict crypto coin rates.
 
 ### ⭐️ I’m currently learning:
