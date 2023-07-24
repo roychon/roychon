@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Roy, a 2nd year Computer Science student at the University of Waterloo with aspirations of being a software engineer.
+I'm Roy, a 2nd year computer science student at the University of Waterloo with aspirations of being a software engineer.
 
 ### 💻 Some of my projects include:
 - [DevShop] 👾, web application designed to facilitate portfolio management for developers. It utilizes a combination of SQL, PHP, JavaScript, HTML, and CSS to allow users to upload and showcase their code projects.
