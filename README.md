@@ -9,7 +9,7 @@ I'm Roy, a 2nd year computer science student at the University of Waterloo with 
 - [Coinport] 💰, a web app that allows users to track, store, and predict crypto coin rates.
 
 ### ⭐️ I’m currently learning:
-- Next.js 🌐
+- AWS 🌩️
 
 ### 📮 Find me here: 
 - [LinkedIn](https://www.linkedin.com/in/roychon)
