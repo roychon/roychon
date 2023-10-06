@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Roy, a 2nd year computer science student at the University of Waterloo with aspirations of being a software engineer.
+I'm Roy, a 2nd year CS student @ University of Waterloo with aspirations of being a software engineer.
 
 ### 💻 Some of my projects include:
 - [ConnectIO] 💬, a social media app built with MERN stack. Has advanced functionalities with enchanced code to improve runtime (ie) lazy loading user posts, code splitting, etc.)
