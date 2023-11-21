@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm Roy, a 2nd year CS student @ [University of Waterloo](https://uwaterloo.ca/) and an aspiring software engineer.
 
