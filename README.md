@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Roy, a 2nd year CS student @ [University of Waterloo](https://uwaterloo.ca/) and an aspiring software engineer.
+I'm Roy, a 2nd year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and an aspiring software engineer.
 
 ### Some of my projects include:
 - FaceHash 💬, a social media app built with MERN stack.
