@@ -10,7 +10,7 @@ Currently, I'm on my first co-op term @ WSIB Lab as a full stack developer.
 - Coinport 💰, a web app that allows users to track, store, and predict crypto coin rates.
 
 ### I’m currently learning:
-- Azure 🌩️
+- Azure + LLMs
 
 ### Personal Contact: 
 - [LinkedIn](https://www.linkedin.com/in/roychon)
