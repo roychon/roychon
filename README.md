@@ -11,7 +11,6 @@ Currently, I'm on my first co-op term @ WSIB Lab as a full stack developer.
 
 ### I’m currently learning:
 - Azure + LLMs
-- Implementing Machine Learning Services + integrating them into full stack applications
 
 ### Personal Contact: 
 - [LinkedIn](https://www.linkedin.com/in/roychon)
