@@ -9,7 +9,7 @@ Currently, I'm on my first co-op term @ WSIB as a full stack developer.
 - Cacao Talk 🍬, a full stack messaging app that allows users to talk to associates, with Web Sockets
 
 ### 🌱 I’m currently learning:
-- Azure + LLMs
+- LLMs + Deep Learning
 
 ### 💌 Personal Contact: 
 - [LinkedIn](https://www.linkedin.com/in/roychon)
