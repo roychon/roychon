@@ -4,7 +4,7 @@ I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.c
 Currently, I'm on my first co-op term @ WSIB as a full stack developer.
 
 ### 🧑‍💻 Some of my projects include:
-- virtual.ai 🤖, an AI system that can understand and respond to users through various input modalities, including speech and handwritten text. Used as a full stack application, similar to ChatGPT enhanced with speech + text detectors
+- virtual.ai 🤖, an AI system that can understand and respond to users through various input modalities, including speech and handwritten text. Langchain powered full stack application, similar to ChatGPT enhanced with speech + text detectors
 - facehash 📱, social media web app built with MERN stack comprised of features similar to Facebook.
 
 ### 🌱 I’m currently learning:
