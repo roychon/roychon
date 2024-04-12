@@ -11,6 +11,7 @@ Currently, I'm on my first co-op term @ WSIB Insurance as a full stack developer
 - LLMs + Deep Learning
 
 ### 💌 Personal Contact: 
+Feel free to contact and connect!
 - [LinkedIn](https://www.linkedin.com/in/roychon)
 - [Personal Website](https://roychon.github.io)
 - [Contact Me](mailto:rchon@uwaterloo.ca)
