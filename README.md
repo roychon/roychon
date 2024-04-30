@@ -1,7 +1,7 @@
 ### Hi 👋
 
 I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and I strive to create solutions to everyday problems. I am interested in machine learning and full-stack development. <br><br>
-🧰 I recently just finished an internship at WSIB where I built PoCs with generative AI.
+🧰 I recently just finished an internship at WSIB where I built PoCs using generative AI.
 
 ### 🧑‍💻 Some of my projects include:
 - omni.ai 🤖, an AI system that can understand and respond to users through various input modalities, including speech and handwritten text. Langchain powered full stack application, similar to ChatGPT enhanced with speech + text detectors
