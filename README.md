@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and I strive to create solutions to everyday problems. I am interested in machine learning and full-stack development. <br><br>
+I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and I strive to create solutions to everyday problems. I am seeking roles in machine learning and full-stack development. <br><br>
 🧰 I recently finished an internship at WSIB where I built POCs using generative AI.
 
 ### 🧑‍💻 Some of my projects include:
