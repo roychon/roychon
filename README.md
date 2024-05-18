@@ -4,7 +4,7 @@ I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.c
 🧰 I recently finished an internship at WSIB where I built POCs using generative AI.
 
 ### 🧑‍💻 Some of my projects include:
-- omni.ai 🤖, an AI system that can understand and respond to users through various input modalities, including speech and handwritten text. Langchain powered full stack application, similar to ChatGPT enhanced with speech + text detectors
+- QueryGPT 🤖, an AI system that can understand and respond to users through various input modalities, including speech and handwritten text. Langchain powered full stack application, similar to ChatGPT enhanced with speech + text detectors
 - codevision 👓, a platform that allows users to share their personal coding projects and portfolios.
 
 ### 🌱 I’m currently learning:
