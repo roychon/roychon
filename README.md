@@ -3,7 +3,7 @@
 I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and I strive to create solutions to everyday problems. I am seeking roles in machine learning and full-stack development. <br><br>
 
 ### 🧰 Internships:
-- WSIB, full stack developer 
+- Worked as a full stack developer at [WSIB][https://www.wsib.ca/en]
 
 ### 🧑‍💻 Some of my projects include:
 - QueryGPT 🤖, an AI system that can understand and respond to users through various input modalities, including speech and handwritten text. Langchain powered full stack application, similar to ChatGPT enhanced with speech + text detectors
