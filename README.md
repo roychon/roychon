@@ -2,7 +2,7 @@
 
 I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and I strive to create solutions to everyday problems. I am seeking roles in machine learning and full-stack development. <br><br>
 
-### 🧰 Internships/Experience:
+### 🧰 Internships / Experience:
 - Built AI powered applications at [WSIB](https://www.wsib.ca/en)
 
 ### 🧑‍💻 Some of my projects include:
