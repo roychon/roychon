@@ -15,4 +15,4 @@ I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.c
 ### 💌 Personal Contact: 
 - [LinkedIn](https://www.linkedin.com/in/roychon)
 - [Personal Website](https://roychon.github.io)
-- [Contact Me](mailto:rchon@uwaterloo.ca)
+- [Email](mailto:rchon@uwaterloo.ca)
