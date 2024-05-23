@@ -13,7 +13,6 @@ I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.c
 - LLMs + Deep Learning
 
 ### 💌 Personal Contact: 
-Feel free to contact and connect!
 - [LinkedIn](https://www.linkedin.com/in/roychon)
 - [Personal Website](https://roychon.github.io)
 - [Contact Me](mailto:rchon@uwaterloo.ca)
