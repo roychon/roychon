@@ -1,8 +1,9 @@
-### Hi 👋
+## Hi 👋
 
 I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and I strive to create solutions to everyday problems. I am seeking roles in machine learning and full-stack development.
 
 - Incoming SWE Intern @ Vivid Seats on B2C Web Team
+- Building Wagr.ai, a startup that leverages AI to pick out best sports betting picks and identify areas of arbitrage 
 - Previously interned @ WSIB as a software developer on innovation team
 
 ## 🧑‍💻 Some of my projects include:
