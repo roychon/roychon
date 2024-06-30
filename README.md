@@ -1,6 +1,7 @@
 ### Hi 👋
 
-I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and I strive to create solutions to everyday problems. I am seeking roles in machine learning and full-stack development. <br><br>
+I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and I strive to create solutions to everyday problems. I am seeking roles in machine learning and full-stack development.
+
 - Incoming SWE Intern @ Vivid Seats on B2C Web Team
 - Previously interned @ WSIB as a software developer on innovation team
 
