@@ -8,7 +8,7 @@ I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.c
 ## 🌱 I’m currently learning:
 - LLMs + Deep Learning
 
-## 💌 Personal Contact: 
+## ✉️ Personal Contact: 
 - [LinkedIn](https://www.linkedin.com/in/roychon)
 - [Personal Website](https://roychon.github.io)
 - [Email](mailto:rchon@uwaterloo.ca)
