@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and I strive to create solutions to everyday problems. I am always learning about machine learning and app development.
+I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and aspiring software engineer. I am currently learning more about machine learning and app development.
 
 - Incoming SWE Intern @ Vivid Seats on B2C Web Team 🎟️
 - Building Wagr.ai, a startup that leverages AI to pick out best sports betting picks and identify areas of arbitrage. I'm currently training/fine-tuning Cohere models and building the frontend MVP 🎰
