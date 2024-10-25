@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and aspiring software engineer. I am currently learning more about machine learning, improving web performance, and building to scale. 
+I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and aspiring software engineer. I am currently learning more about machine learning and algorithms. 
 
 ## 🔨 Right now I'm building:
 - A micro sports-betting focused application, using machine learning to pick out best parlays and legs
