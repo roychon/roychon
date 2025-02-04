@@ -1,14 +1,8 @@
 ## Hi 👋
 
-I'm Roy, a second year CS student @ [University of Waterloo](https://uwaterloo.ca/about/) and aspiring software engineer. I am currently learning more about machine learning and algorithms. 
+I'm Roy, a 3rd-year Computer Science student at the University of Waterloo. My current interests are in deep learning, databases, and software scalability. I'm seeking 2026 software engineering internships
 
-## 🔨 Right now I'm building:
-- A micro sports-betting focused application, using machine learning to pick out best parlays and legs
-
-## 🌱 I’m currently learning:
-- LLMs + Deep Learning
-
-## ✉️ Personal Contact: 
+Always looking forward to tackling new challenges, reach out to me here:
+✉️ 
 - [LinkedIn](https://www.linkedin.com/in/roychon)
-- [Personal Website](https://roychon.github.io)
 - [Email](mailto:rchon@uwaterloo.ca)
