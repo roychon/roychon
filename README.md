@@ -1,7 +1,17 @@
-## Hi 👋
+# Hi
 
-I'm Roy, a 3rd-year Computer Science student at the University of Waterloo. My current interests are in artificial intelligence, blockchain, and distributed systems. I'm seeking 2026 software engineering internships
+I'm Roy, a third-year CS at the University of Waterloo. I'm currently seeking swe roles in distributed systems and AI tooling.
 
-Always looking forward to tackling new challenges, reach out to me here: </br>
-- [LinkedIn](https://www.linkedin.com/in/roychon)
-- [Email](mailto:rchon@uwaterloo.ca)
+## Recently
+
+- Incoming @ Databricks in Mountain View, Winter 2027
+- AI agents for CloudWatch pipelines @ AWS
+- Identity verification workflows @ BitGo
+- Onboarding workflows on the retailer growth pod @ Faire
+- Sports category pages and web speed @ Vivid Seats
+
+## Contact
+
+- Website: [roychon.vercel.app](https://roychon.vercel.app)
+- LinkedIn: [linkedin.com/in/roychon](https://www.linkedin.com/in/roychon/)
+- Email: [rchon@uwaterloo.ca](mailto:rchon@uwaterloo.ca)
